@@ -1,4 +1,4 @@
-## Here I post colab notebooks on different machine learning topics. Motivation is to learn by explaining. [Website](https://birlikov.github.io/ml-notes/).
+## Here I post notes on different machine learning related topics. Motivation is to learn by explaining. [Website](https://birlikov.github.io/ml-notes/).
 PS: work under construction...
 
 ### Statistics&Probability Notes
